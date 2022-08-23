@@ -1,0 +1,52 @@
+.parent {
+    border: 10px black dashed;
+    display: inline-block;
+    position: static;
+}
+.parent2{
+    border: 10px black dotted;
+    display: inline-block;
+    position: static;
+}
+
+.box {
+    display: inline-block;
+    background: red;
+    width: 100px;
+    height: 100px;
+}
+#two {
+    top: 10px;
+    left: 10px;
+    background: green;
+    position: static;
+}
+
+#float-heading {
+    margin-top: 60px;
+    margin-bottom: 5px;
+}
+#float-five {
+    display: block;
+    background: goldenrod;
+    width: 50px;
+    height: 50px;
+    float: none;
+    clear: none;
+}
+#float-six {
+    display: block;
+    background: lightskyblue;
+    width: 100px;
+    height: 100px;
+    float: none;
+    clear: none;
+}
+#p-div {
+    float: none;
+    clear: none;
+}
+#float-p {
+    float: none;
+    clear: none;
+}

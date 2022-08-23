@@ -1,1 +1,1 @@
-# patricks-web-exercises
+# venus-web-exercises
